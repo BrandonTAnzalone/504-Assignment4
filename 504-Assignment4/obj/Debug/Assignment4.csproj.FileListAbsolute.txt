@@ -1,0 +1,10 @@
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\bin\Debug\Assignment4.exe
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.Form1.resources
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.exe
+C:\Users\brandon\source\repos\daeclerck\504-Assignment4\obj\Debug\Assignment4.pdb
